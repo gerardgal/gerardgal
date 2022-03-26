@@ -3,10 +3,16 @@
 
 <p>Currently studying Electronics Engineering :computer: and VueJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VUEJS" width="20" height="20" /></p>
 
-<p> Working on a WebApp menu implementing <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VUEJS" width="20" height="20" /> for the Front-End and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="FIREBASE" width="30" height="30" /> for the Back-End. </p>
 
 
-- 👷🏽‍♂️ My latest work:
+
+👷 Working on: 
+  - WebApp menu manager with Fastify / ES6+ / SASS.
+
+
+
+
+My latest project:
   - [Natours Website](https://natours-gerard.herokuapp.com/)
 
 <h3 align="center"> Languages and Tools </h3>
