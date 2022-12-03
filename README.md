@@ -11,7 +11,7 @@
 My latest project:
   - [Natours Website](https://natours-gerard.cyclic.app)
 
-<h3 align="center"> Languages </h3>
+<h3 align="center"> Languages and frameworks </h3>
 
 ___
 <p>
