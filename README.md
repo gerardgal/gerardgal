@@ -1,17 +1,18 @@
-<h1 align="center">Hello there! I'm Gerardo</h1>
+<h3 align="center">Hello there! I'm Gerardo</h1>
 
 
 <p>Currently studying Electronics Engineering :computer: and VueJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VUEJS" width="20" height="20" /></p>
 
 
-👷 Working on: 
-  - WebApp menu manager with Fastify / ES6+ / SASS.
+Currently developing: 
+  - Web App business manager | MEVN stack
 
 
-My latest project:
+Latest project:
+
   - [Natours Website](https://natours-gerard.cyclic.app)
 
-<h3 align="center"> Languages and frameworks </h3>
+<h3 align="center"> Languages & Frameworks </h3>
 
 ___
 <p>
@@ -25,7 +26,7 @@ ___
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center"> Contact me </h3>
+<h3 align="center"> Contact me at </h3>
 
 ___
 
