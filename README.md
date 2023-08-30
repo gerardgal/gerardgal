@@ -1,20 +1,22 @@
-<h3 align="center">Hello there! I'm Gerardo</h1>
+<h2 align="center">Hello there!</h2>
 
+<h3>
+  My name is Gerardo! I'm a web developer enthusiast open to work.<br />
+  I'm currently studying Electronics Engineering :computer: programming and designing logic and circuits stuff.<br />
+  Also learning VueJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VUEJS"      width="20" height="20" /> in the mean time.<br /> 
+  Currently developing using JS and React.<br />
+</h3>
 
-<p>Currently studying Electronics Engineering :computer: and VueJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VUEJS" width="20" height="20" /></p>
-
-
-Currently developing: 
-  - Web App business manager | MEVN stack
-
-
-Latest project:
+<h3> My latest project </h3>
 
   - [Natours Website](https://natours-gerard.cyclic.app)
+
 
 <h3 align="center"> Languages & Frameworks </h3>
 
 ___
+
+
 <p>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -26,11 +28,11 @@ ___
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<h3 align="center"> Contact me at </h3>
+<h3> Contact me </h3>
 
 ___
 
-<div align="center">
+<div>
   <p>
     <a href="https://www.linkedin.com/in/gerardogalicia/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
