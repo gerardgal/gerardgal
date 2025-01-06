@@ -2,7 +2,7 @@
 
 <h3>
   Hi! My name is Gerardo, i'm a web developer enthusiast open to work.<br />
-  I'm currently studying Electronics Engineering :computer: programming digital circuits, discrete logic and low level shenanigans.<br />
+  I'm currently studying Electronics Engineering :computer: programming digital circuits, discrete logic and low level coding.<br />
   Also learning VueJS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="VUEJS"      width="20" height="20" /> in the mean time.<br /> 
   Currently developing using JS and React.<br />
 </h3>
